@@ -1,0 +1,51 @@
+
+.body{
+    background-color: black;
+    font-family:  monospace;
+}
+.child{
+    border: solid brown;
+    margin: 100px;
+    height: 400px;
+    width: 1000px;
+    box-shadow: inset 0px -1px 20px 4px #8fb730;
+}
+.text{
+    color:rgb(81, 43, 43);
+    font-style: italic;
+    text-align: center;
+}
+.child2{
+    display: flex;
+    color: azure;
+    font-size: 80px;
+    margin: 50px;
+    width: fit-content;
+    margin: auto;
+    
+}
+.se{
+   width:fit-content;
+   margin: auto;
+   display: flex;
+   margin-top: 50px 
+}
+#start{
+    color: blue;
+    font-size: 30px;
+    border-radius: 5%;
+    margin-right: 40px;
+    padding: 10px 8px;
+    text-decoration: solid;
+    display:flex;
+    font-family:  monospace;
+}
+#END{
+    color: blue;
+    font-size: 30px;
+    border-radius: 5%;
+    padding: 10px 8px;
+    text-decoration: solid;
+    display:flex;
+    font-family:  monospace;
+}
